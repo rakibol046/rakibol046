@@ -1,4 +1,4 @@
-
+![alt text](https://media.licdn.com/dms/image/D4D12AQH8wFBWTJpYRQ/article-cover_image-shrink_600_2000/0/1688545854206?e=2147483647&v=beta&t=p3lTJ2HQaiXzEqUOzfQq2QRvfwrqjfuh8nTT3u6lgM0)
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rakibulislam046) 
 
@@ -9,10 +9,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rakibol046&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rakibol046&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rakibol046&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
