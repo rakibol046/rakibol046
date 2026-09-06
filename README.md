@@ -6,7 +6,7 @@
 ### Full-Stack Software Engineer
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=Building+scalable%2C+production-ready+web+apps;React+%2F+Node.js+%2F+Laravel+%2F+Cloud;Full-Stack+Engineer+%40+Taskeasy.io" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=Building+scalable%2C+production-ready+web+apps;React+%2F+Node.js+%2F+Laravel+%2F+Cloud;Full-Stack+Engineer" alt="Typing SVG" />
 </a>
 
 <p>
